@@ -1,4 +1,5 @@
-![logo](https://github.com/Akash02032002/Akash02032002/blob/main/Youtube%20Banner.png)
+![ultron](https://github.com/Akash02032002/Akash02032002/assets/84145371/9fca0613-0b2c-43f8-8e53-aef9b00e1b51)
+
 <h1 align="center">Hello there 👋, Myself Akash Kumar</h1>
 <h3 align="center">A passionate Blockchain developer from India.</h3>
 <h3 align="center">Hello there,
