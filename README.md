@@ -1,24 +1,13 @@
 ![ultron](https://github.com/Akash02032002/Akash02032002/assets/84145371/9fca0613-0b2c-43f8-8e53-aef9b00e1b51)
 
 <h1 align="center">Hello there 👋, Myself Akash Kumar</h1>
-<h3 align="center">A passionate Blockchain developer from India.</h3>
-<h3 align="center">Hello there,
-Myself Akash, A Computer Science Engineering Student, By Profession full Stack Blockchain developer. I also do have knowledge about web2 and web3 related technologies like { HTML, CSS, JavaScript, React.js, Node.js, Blockchain, Solidity, Ethereum, Bitcoin, Ether.js, Web3.js, Hardhat, Truffle, NFT, DAO, DeFi, Metaverse and many more }. I love to work with web3 related new technologies.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">A passionate Web and Blockchain developer from India.</h3>
+<h3 align="center">Hello there, Myself Akash Kumar and I am a Computer Science and Engineering graduate from Loknayak Jai Prakash Institute of Technology which is situated in Chapra, Bihar. My cumulative cgpa is 8.00. I reside at village in a Nalanda District, Biharsharif. I am Enthusiastic And Determinant Men.
+I enjoy solving technical problem, blogging researching and learning new technologies. I enjoy meeting people and working with them in a team environment.
+My ultimate goal is to become a highly skilled in the field of Web Development, delivering innovative and efficient solutions that contribute to the overall prosperity of the company. At last, Some I Interest Include Fitness, Cricket, Singing and Web crawling.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash02032002&label=Profile%20views&color=0e75b6&style=flat" alt="akash02032002" /> </p>
 
-- 🔭 I’m currently working on **Ur-Chat dApp**
-
-- 🌱 I’m currently learning **Solana, Go, Rust**
-
-- 👯 I’m looking to collaborate on **NFT MarketPlace dApp**
-
-- 🤝 I’m looking for help with **Metaverse technologies.**
-
-- 👨‍💻 All of my projects are available at [www.codewithakash.online](www.codewithakash.online)
-
-- 💬 Ask me about **Blockchain, Solidity, Ethereum, Bitcoin, Web3 technologies etc.**
+![computer](https://github.com/Akash02032002/Akash02032002/assets/84145371/d46c14de-c73f-42f5-ab99-4658793e42b0)
 
 - 📫 How to reach me **aksahkumar02032002@gmail.com**
 
