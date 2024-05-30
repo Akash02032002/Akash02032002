@@ -5,8 +5,7 @@
 I enjoy solving technical problem, blogging researching and learning new technologies. I enjoy meeting people and working with them in a team environment.
 My ultimate goal is to become a highly skilled in the field of Web Development, delivering innovative and efficient solutions that contribute to the overall prosperity of the company. At last, Some I Interest Include Fitness, Cricket, Singing and Web crawling.</h3>
 
-
-<h3 align="center">![computer](https://github.com/Akash02032002/Akash02032002/assets/84145371/d46c14de-c73f-42f5-ab99-4658793e42b0)</h3>
+![computer](https://github.com/Akash02032002/Akash02032002/assets/84145371/d46c14de-c73f-42f5-ab99-4658793e42b0)
 
 - 📫 How to reach me **aksahkumar02032002@gmail.com**
 
