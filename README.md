@@ -7,6 +7,16 @@ My ultimate goal is to become a highly skilled in the field of Web Development, 
 
 - 📫 How to reach me **aksahkumar02032002@gmail.com**
 
+- Linkedin Profile :- https://www.linkedin.com/in/akashverse01/
+
+- Github Link :- https://github.com/Akash02032002/
+
+- Portfolio Link:- https://akashverse.vercel.app/
+
+- Stackoverflow Link:- https://stackoverflow.com/users/15918393/akash02032002/
+
+- WordPress Profile :- https://profiles.wordpress.org/aksahverse/
+
 - ⚡ Fun fact **Stay Fool, Stay Hungry, Stay Consistent.**
 
 <h3 align="left">Connect with me:</h3>
