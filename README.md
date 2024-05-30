@@ -17,6 +17,8 @@ My ultimate goal is to become a highly skilled in the field of Web Development, 
 
 - WordPress Profile :- https://profiles.wordpress.org/aksahverse/
 
+- Blog Website :- https://ultronverse.blogspot.com/
+
 - ⚡ Fun fact **Stay Fool, Stay Hungry, Stay Consistent.**
 
 <h3 align="left">Connect with me:</h3>
