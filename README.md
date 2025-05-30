@@ -4,10 +4,8 @@
 <img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1722470400&v=beta&t=Fhg-3SyKTd2Sn6WExTF5UDLEwPhPaDf5gHEK7NGajUo" alt="Akash Kumar" style="width: 100%; border-radius: 50%;">
 
 
-<h3 align="center">A passionate Web and Blockchain developer from India.</h3>
-Hello there, Myself Akash Kumar and I am a Computer Science and Engineering graduate from Loknayak Jai Prakash Institute of Technology which is situated in Chapra, Bihar. My cumulative cgpa is 8.00. I reside at village in a Nalanda District, Biharsharif. I am Enthusiastic And Determinant Men.
-I enjoy solving technical problem, blogging researching and learning new technologies. I enjoy meeting people and working with them in a team environment.
-My ultimate goal is to become a highly skilled in the field of Web Development, delivering innovative and efficient solutions that contribute to the overall prosperity of the company. At last, Some I Interest Include Fitness, Cricket, Singing and Web crawling.
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
+"Hi, I'm Akash Kumar, a seasoned full stack web developer with expertise in designing and developing scalable, efficient, and visually appealing web applications. With proficiency in both front-end and back-end technologies, I deliver comprehensive solutions that meet clients' needs. Let's build your digital presence together!"
 
 - 📫 How to reach me **aksahkumar02032002@gmail.com**
 
