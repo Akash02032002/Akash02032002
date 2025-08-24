@@ -1,7 +1,8 @@
-![ultron](https://github.com/Akash02032002/Akash02032002/assets/84145371/9fca0613-0b2c-43f8-8e53-aef9b00e1b51)
 
 
-<img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1722470400&v=beta&t=Fhg-3SyKTd2Sn6WExTF5UDLEwPhPaDf5gHEK7NGajUo" alt="Akash Kumar" style="width: 100%; border-radius: 50%;">
+<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/a444c76d-dd89-45f0-abdc-ac8856925fb1" />
+
+
 
 
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
