@@ -8,8 +8,8 @@
 
 
 
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
-"Hi, I'm Akash Kumar, a seasoned full stack web developer with expertise in designing and developing scalable, efficient, and visually appealing web applications. With proficiency in both front-end and back-end technologies, I deliver comprehensive solutions that meet clients' needs. Let's build your digital presence together!"
+<h3 align="center">A passionate DevOps Engineer and  A Full Stack Developer from India.</h3>
+"Hi, I'm Akash Kumar, a seasoned DevOps Engineer and full stack web developer with expertise in designing and developing scalable, efficient, and visually appealing web applications. With proficiency in both front-end, back-end and CI/CD pipeline technologies (DevOps), I deliver comprehensive solutions that meet clients' needs. Let's build your digital presence together!"
 
 - 📫 How to reach me **aksahkumar02032002@gmail.com**
 
